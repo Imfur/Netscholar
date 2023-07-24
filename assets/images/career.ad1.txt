@@ -1,0 +1,28 @@
+﻿Created By AccessData® FTK® Imager 4.7.1.2 
+
+Case Information: 
+Acquired using: ADI4.7.1.2
+Case Number: 001
+Evidence Number: 001-123
+Unique Description: Original picture
+Examiner: Bruce Junior Imfura
+Notes: Image of original picture
+
+--------------------------------------------------------------
+
+Information for C:\wamp\www\Netscholar\assets\images\career.ad1:
+[Computed Hashes]
+ MD5 checksum:    2179b560b0fc9c14c8a4ae067c8da7ed
+ SHA1 checksum:   5640802220098e6c390a528640d900e6ed62336f
+
+Image information:
+ Acquisition started:   Mon Jul 10 13:09:42 2023
+ Acquisition finished:  Mon Jul 10 13:09:44 2023
+ Segment list:
+  C:\wamp\www\Netscholar\assets\images\career.ad1
+
+Image Verification Results:
+ Verification started:  Mon Jul 10 13:09:44 2023
+ Verification finished: Mon Jul 10 13:09:44 2023
+ MD5 checksum:    2179b560b0fc9c14c8a4ae067c8da7ed : verified
+ SHA1 checksum:   5640802220098e6c390a528640d900e6ed62336f : verified
